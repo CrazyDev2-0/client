@@ -1,5 +1,5 @@
 import React, { useRef, useEffect, useState } from "react";
-import mapboxgl from "mapbox-gl";
+import mapboxgl from '!mapbox-gl';
 import "./stylesMap.css";
 import axios from 'axios';
 import arrow_r from "./charm_arrow-right.png";
