@@ -7,6 +7,7 @@ import arrow_r from "./charm_arrow-right.png";
 mapboxgl.accessToken =
   "pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4M29iazA2Z2gycXA4N2pmbDZmangifQ.-g_vE53SD2WrJ6tFX7QHmA";
 
+  
 const Map = () => {
   const mapContainerRef = useRef({});
   const map = useRef(null);
